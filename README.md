@@ -10,7 +10,7 @@
 cd Spam1
 python3 -m pip install -r requirements.txt 
 </pre>
-<h3>> Now run the script as shown in usage if you have trouble in passing parameter on runtime</h3>
+<h3>> Now run the script as shown in usage</h3>
 
 
 # Usage
