@@ -1,6 +1,7 @@
 import pyautogui as spam
 import time
 import requests
+import os
  
 limit = input("Enter number of msg")
 msg = input("Mesagge you want to send")
